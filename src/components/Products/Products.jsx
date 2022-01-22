@@ -1,5 +1,6 @@
 import React from 'react';
 import Grid from '@material-ui/core'
+import Product from './Product'
 
 const products = [
   {id: 1, name: 'shoes', description: 'bright red stiletto heels', price: '100'}, 
