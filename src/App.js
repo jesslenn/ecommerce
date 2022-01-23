@@ -16,6 +16,8 @@ useEffect(() => {
   fetchProducts();
 }, [])
 
+console.log(products)
+
   return (
     <div>
       <Navbar />
